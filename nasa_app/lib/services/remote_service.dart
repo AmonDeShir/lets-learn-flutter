@@ -1,4 +1,4 @@
-import 'package:codelab_first/models/nasa_image.dart';
+import 'package:nasa_app/models/nasa_image.dart';
 import 'package:http/http.dart' as http;
 
 const searchUrl = "https://images-api.nasa.gov/search?media_type=image&q=";

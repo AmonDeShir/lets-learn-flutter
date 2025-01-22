@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:codelab_first/main.dart';
-import 'package:codelab_first/models/nasa_image.dart';
-import 'package:codelab_first/services/remote_service.dart';
+import 'package:nasa_app/main.dart';
+import 'package:nasa_app/models/nasa_image.dart';
+import 'package:nasa_app/services/remote_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
